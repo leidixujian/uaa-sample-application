@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "UaaSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 9999,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZDU4YjgzYTlkOThhMDc2YWNiZGEzYmU2ZWM1NzMwM2QyMTdhNGU5ZmFjNzgwYzc1YmFhMmE5NWU2OWM2ZmE5NTNjZDQ5ZWE1MWY3MjVmNzc5NTRhODM5ZTE0NmMwN2RhYjBiOGNjMzIzMTkzM2YxNDMyMWU5YzBlMzUyNmUxYTA=",
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "leidixujian",
+  "repository-name": "uaa-sample-application"
+}
